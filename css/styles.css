@@ -1,0 +1,74 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+
+#pagetitle{
+
+  text-align: center;
+}
+
+#menu{
+
+  text-align: center;
+  font-size: 20px;
+}
+
+.number{
+
+  width: 35px;
+  height:35px;
+  font-size: 25px;
+  padding-left: 10px;
+}
+
+.checkbox{
+
+  width: 15px;
+  height: 15px;
+  margin-top: 25px;
+
+}
+
+.submit_button{
+
+  text-align: center;
+  color: #fff;
+  background-color:#5B74A8;
+  font-size: 25px;
+  width: 250px;
+  height: 60px;
+  border:1px solid #29447E;
+
+}
+
+
+#password{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #5B74A8
+}
+
+
+img.medium{
+
+  width:740px;
+  height:601px;
+}
+
+img.align-center{
+
+  display: block;
+  margin: 0px auto;
+}
+
+h5{
+
+  text-align: center;
+}
