@@ -20,15 +20,15 @@ Developed using PHP.
 
 
 ## High Level Components
-  * Input file
-  * Generator with logic methods
-  * View to display result
+    * Input file
+    * Generator with logic methods
+    * View to display result
 
 ## Class Overview
-  Generator
-    - logic
+    Generator
+        - logic
   
 <br>
 
-  View
-    - index
+    View
+        - index
