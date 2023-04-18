@@ -13,3 +13,22 @@ in order to fit the requirements for passwords many sites with accounts have. Th
 the password and the numbers and symbols are taken from banks coded into the application.
 
 The logic.php file creates the password based on user input into the form on the index.php file.
+
+
+## Technologies
+Developed using PHP.
+
+
+## High Level Components
+  * Input file
+  * Generator with logic methods
+  * View to display result
+
+## Class Overview
+  Generator
+    - logic
+  
+<br>
+
+  View
+    - index
